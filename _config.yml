@@ -1,7 +1,7 @@
 name: Liquid C
 favicon: null
-layout_spectrum: 0.93625
-typography_spectrum: 0.05549573735333979
+layout_spectrum: 0.64486
+typography_spectrum: 0.06924
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#422c1e'
     - '#e1dbc2'
     - '#fafcfe'
-  brandStrength: 0.3735324128065258
+  brandStrength: 0.4375
   lightness: 0.5790211562998593
   saturation: 0.25
   rhythmicContrast: 0
