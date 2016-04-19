@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Liquid C is the fastet growing beverage company in the night-club business. Since it started in 2016 it sold over 500.000 shots. It is now available in more than 20 countries all over the world
-datePublished: '2016-04-19T18:10:49.132Z'
-dateModified: '2016-04-19T18:10:13.619Z'
+datePublished: '2016-04-19T18:11:28.372Z'
+dateModified: '2016-04-19T18:10:53.169Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-liquid-c-is-the-fastet-growing-beverage-company-in-the-night.md
