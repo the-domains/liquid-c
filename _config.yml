@@ -1,0 +1,28 @@
+name: Liquid C
+favicon: null
+layout_spectrum: 0.1885084374807775
+typography_spectrum: 0.05549573735333979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3735324128065258
+  lightness: 0.5790211562998593
+  saturation: 0.6532331863418221
+  rhythmicContrast: 0.8738269438035786
+purpose: []
